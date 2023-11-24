@@ -1,0 +1,17 @@
+Hi!
+In this test there is 1 test file called demo.test.js
+It is 1 sanity flow contains multiple actions and validations.
+
+Firstly clone the project from github.
+cd to the root folder. (structshareplaywright)
+Then run:
+"npm install"
+
+Then run:
+"npm run test:e2e"
+This command will generate reports
+
+reports will be located in test_results.
+If you are the root folder 'structshareplaywright'
+please run following code to view the reports:
+"npm run show-report"
